@@ -1,0 +1,2 @@
+git fetch --> to see the changes made in the remote repo
+git pull --> to update the local repo with the changes from the remote repo
